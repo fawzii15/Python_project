@@ -8,7 +8,7 @@ def main():
     app = QApplication(sys.argv)
     app.setStyleSheet(qdarkstyle.load_stylesheet_pyqt5())
     window = GUIApp()
-    icon_path = "C:\\Users\\IM\\PycharmProjects\\TO-DO-LIST\\logo.png"
+    icon_path = "logo.png"
     window.setWindowIcon(QIcon(icon_path))
     window.show()
     sys.exit(app.exec_())
