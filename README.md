@@ -11,7 +11,7 @@ Elle permet aux utilisateurs d'ajouter, lister et supprimer des tâches. Chaque 
 
 ## Installation
 
-##Prérequis
+#Prérequis
 - Python 3.x
 - PyQt5
 - qdarkstyle
